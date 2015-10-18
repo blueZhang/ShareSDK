@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Share1017Class</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_more">MoreActivity</string>
+    <string name="title_activity_mroe2">Mroe2Activity</string>
+</resources>
